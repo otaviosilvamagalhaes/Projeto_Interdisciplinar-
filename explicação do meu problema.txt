@@ -1,0 +1,2 @@
+prof, estou com problemas com o gitbash, meu projeto ta pronto, mas não to conseguindo subir ele, já faz algumas horas que eu to tentando resolver, amanhã eu acordo e já venho tentar resolver.
+ele não ta enviando pro meu git, provavelmente vou ter que reinstalar.
